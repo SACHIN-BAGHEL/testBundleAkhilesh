@@ -1,5 +1,5 @@
 descriptorVersion: v4
-image: entando/microservice-mf:0.0.1-SNAPSHOT
+image: sachinbaghel27/microservice-mf:0.0.1-SNAPSHOT
 dbms: postgresql
 healthCheckPath: "/management/health"
 roles:
